@@ -4,32 +4,6 @@ A browser-based chess game built with HTML, CSS, and JavaScript, allowing two pl
 # ACCESS THE GAME HERE
 https://eswaranumothu.github.io/Local_ChessGame/
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Local Chess Game - Development Process</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            padding: 20px;
-        }
-        h1, h2 {
-            color: #2d3e50;
-        }
-        .section {
-            margin-bottom: 20px;
-        }
-        ul {
-            list-style-type: disc;
-            margin-left: 20px;
-        }
-        p {
-            margin-bottom: 15px;
-        }
-    </style>
 
    <h1>Local Chess Game - Development Process</h1>
 
